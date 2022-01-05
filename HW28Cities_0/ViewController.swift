@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 let vc1 = "vc1"
+    let vc2 = "vc2"
 
 }
 
