@@ -13,7 +13,9 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
-
-
+    let vc1 = "vc1"
+    let vc2 = "vc2"
+    let vc3 = "vc3"
+    let vc4 = "vc4"
 }
 
